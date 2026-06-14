@@ -22,7 +22,7 @@ https://github.com/ashima-09/Snake_Game_AI/assets/96876403/a21cbc2a-1dc9-4797-8a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ashima-09/Snake_Game_AI
+git clone https://github.com/prnv2104/Snake_Game_AI
 ```
 
 2. Install dependencies:
